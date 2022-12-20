@@ -79,7 +79,7 @@ parametros$reporte_seguro <- paste0( parametros$work_dir, 'Reportes/Reporte_',
                                      parametros$seguro, '/' )
 
 
-parametros$reporte_genera <- paste0( parametros$work_dir, 'R/PQ_PH/600_reporte_latex_hip.R' )
+parametros$reporte_genera <- paste0( parametros$work_dir, 'R/600_reporte_latex.R' )
 
 parametros$reporte_script <- paste0( parametros$reporte_seguro, 'reporte.R' )
 parametros$reporte_nombre <- paste0( parametros$empresa, '_', 
